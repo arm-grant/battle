@@ -4,6 +4,6 @@ cover: >-
 coverY: 0
 ---
 
-# Owning Your Drone
+# Owning Your seeker
 
-In the same way that your full drone avatar can be made tradable, the individual attributes that you customise your Battle Drone with can also be made tradable on the marketplace. This opens up a world of opportunity for collecting your favourite Battle Drones assets with the ability to trade them again in the future. The value of ownership adds further opportunity through events such as staking and fractionalisation, both of which will be elaborated on as we further build out the platforms.
+In the same way that your full seeker avatar can be made tradable, the individual attributes that you customise your Battle seeker with can also be made tradable on the marketplace. This opens up a world of opportunity for collecting your favourite Battle seekers assets with the ability to trade them again in the future. The value of ownership adds further opportunity through events such as staking and fractionalisation, both of which will be elaborated on as we further build out the platforms.

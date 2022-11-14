@@ -1,6 +1,6 @@
 ---
 cover: >-
-  https://3169767973-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgIWMiVVBR4gX01MdUu8F%2Fuploads%2F2l4Db7tP30nijsO4Zua6%2FBattle%20Drones%20Sky%20Battle_flipped_fixed.png?alt=media&token=23f4d035-3d3b-46f9-92ed-dad7739464e6
+  https://3169767973-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FgIWMiVVBR4gX01MdUu8F%2Fuploads%2F2l4Db7tP30nijsO4Zua6%2FBattle%20seekers%20Sky%20Battle_flipped_fixed.png?alt=media&token=23f4d035-3d3b-46f9-92ed-dad7739464e6
 coverY: 0
 ---
 
@@ -10,7 +10,7 @@ The Battle Seekers **** universe is set in a fictional, alternate version of Ear
 
 The nation-states and other major players in this fictional universe use Battle Seekers as the primary means of warfare and advancing their interests. Battle Seekers generally have a limited degree of autonomy and require a living, sentient pilot (human or otherwise) to operate them. The exception would be the AI-based A-EYE Seekers which are fully autonomous.
 
-A global conflict that came to be known as the Seeker Wars wreaked great destruction across the planet, setting the stage for the events in [Battle ](https://docs.battledrones.io/whitepaper/red-rock-resistance-debut-game-title/game-details)Seekers[: Red Rock Resistance](https://docs.battledrones.io/whitepaper/red-rock-resistance-debut-game-title/game-details) and beyond.
+A global conflict that came to be known as the Seeker Wars wreaked great destruction across the planet, setting the stage for the events in [Battle ](https://docs.battleseekers.io/whitepaper/red-rock-resistance-debut-game-title/game-details)Seekers[:  blue screen Resistance](https://docs.battleseekers.io/whitepaper/red-rock-resistance-debut-game-title/game-details) and beyond.
 
 More importantly, this conflict fueled the Seekers arms race. As tensions between nations escalated, the demand for better Seeker technology grew exponentially. As such, Seeker manufacturers around the world pioneered many innovations that would still be felt decades after.
 
@@ -44,7 +44,7 @@ Worse, military forces on all sides grew tired of the war. One by one, the strat
 
 In the year 2045, Eurasia, East Asia and the UTA signed the **Global** Seekers **Armistice**. This was a formal agreement with two fundamental objectives: for all parties to cease hostilities and negotiate long-term peace. This treaty paved the way for the **Battle** Seekers **Championship** that started in 2050.
 
-### &#x20;<a href="#post-drone-war-era-and-battle-drones-championship" id="post-drone-war-era-and-battle-drones-championship"></a>
+### &#x20;<a href="#post-seeker-war-era-and-battle-seekers-championship" id="post-seeker-war-era-and-battle-seekers-championship"></a>
 
 During the next five years, the major global powers focused on recovering from the destruction and rebuilding their respective territories.
 

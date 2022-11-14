@@ -6,4 +6,4 @@ coverY: 0
 
 # Game Titles
 
-The vision for us is to create an ecosystem of game titles that explore the expansive narrative of the Battle Drones universe. Not only that, we want to offer a variety of games that have different gameplay and experiences to suit all players. As we develop the Battle Drones Universe, you’ll start to see clues and hints at what’s to come.
+The vision for us is to create an ecosystem of game titles that explore the expansive narrative of the Battle seekers universe. Not only that, we want to offer a variety of games that have different gameplay and experiences to suit all players. As we develop the Battle seekers Universe, you’ll start to see clues and hints at what’s to come.

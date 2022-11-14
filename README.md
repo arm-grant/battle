@@ -8,7 +8,7 @@ coverY: 0
 
 Official Battle Seekers Whitepaper
 
-#### &#x20;<a href="#welcome-to-battle-drones" id="welcome-to-battle-drones"></a>
+#### &#x20;<a href="#welcome-to-battle-seekers" id="welcome-to-battle-seekers"></a>
 
 Battle Seekers is a start-up game development company, with our HQ in Auckland, New Zealand. We have a global team of game developers, partners and community members.
 
@@ -20,4 +20,4 @@ By building our own ecosystem of games that tell the intricate narrative of Batt
 
 We’re building our games on the Unity engine so we can easily expand to all gaming platforms, providing greater accessibility to our content. Our goal first and foremost is to create gaming experiences that our players can have fun in and have our community help craft these experiences along the way!
 
-#### &#x20;<a href="#stay-up-to-date-with-battle-drones" id="stay-up-to-date-with-battle-drones"></a>
+#### &#x20;<a href="#stay-up-to-date-with-battle-seekers" id="stay-up-to-date-with-battle-seekers"></a>
