@@ -1,0 +1,17 @@
+# Table of contents
+
+* [BATTLE Seekers](README.md)
+* [Battle Seekers Universe: a Deep Dive](battle-seekers-universe-a-deep-dive.md)
+* [Characters](characters.md)
+* [In-game Brands: Drone Part Manufacturers](in-game-brands-drone-part-manufacturers.md)
+* [Game Titles](game-titles.md)
+* [Game Overview](game-overview.md)
+* [Game Details](game-details.md)
+* [How to Play](how-to-play.md)
+* [Perks](perks.md)
+* [Enemy Drones](enemy-drones.md)
+* [Owning Your Drone](owning-your-drone.md)
+* [Roadmap](roadmap.md)
+* [Drone Bones Store](drone-bones-store.md)
+* [Customising Your Drone](customising-your-drone.md)
+* [Battle Drones: Future](battle-drones-future.md)
